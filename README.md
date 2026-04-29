@@ -56,7 +56,3 @@ The dataset follows a **star schema** approach:
 - Designed business-focused and interactive dashboards  
 
 ---
-
-
-## 📬 Contact
-- LinkedIn: your-link-here
